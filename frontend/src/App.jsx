@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import ShowBook from './pages/ShowBook'
 import EditBook from './pages/EditBook'
 import DeleteBook from './pages/DeleteBook'
-import CreateBook from './pages/createbook'
+import CreateBook from './pages/CreateBook'
 
 const App = () => {
   return (
