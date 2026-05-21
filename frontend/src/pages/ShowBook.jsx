@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import axios from "axios"
 import { useParams } from "react-router-dom"
 import Backbutton from "../components/Backbutton"
-import Spinner from "../components/spinner"
+import spinner from "../components/spinner"
 
 
 const ShowBook = () => {
